@@ -9,4 +9,6 @@
 ---
 # Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/Rhys-Woolcott/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott)](https://github.com/Rhys-Woolcott/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galactix-xyz)](https://github.com/galactix-xyz/)
