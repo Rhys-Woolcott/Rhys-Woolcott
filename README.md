@@ -7,4 +7,6 @@
 - Discord: [GALACTIX Software](https://discord.gg/vabD3Fg)
 - Website: [GALACTIX.XYZ](https://galactix.xyz)
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&show_icons=true&theme=radical)]()
+# Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/Rhys-Woolcott/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/Rhys-Woolcott/)
