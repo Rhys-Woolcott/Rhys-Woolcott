@@ -12,8 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
 ---
 # Favourite/Useful Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=GalacVis&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=radical)](https://github.com/galactix-xyz/Programming-Fixes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=GalacVis&show_icons=true&theme=radical)](https://github.com/galactix-xyz/GalacVis)
 ---
 # Socials
 <!-- Actual text -->
