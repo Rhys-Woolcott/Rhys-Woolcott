@@ -12,8 +12,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
 ---
+# Socials
 <!-- Actual text -->
-You can find me on [![Twitter][1.2]][1]
+[![Twitter][1.2]][1]
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (Twitter)
 <!-- Links to your social media accounts -->
