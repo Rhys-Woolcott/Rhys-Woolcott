@@ -13,6 +13,7 @@
 ---
 # Favourite/Useful Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=GalacVis&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
 ---
 # Socials
 <!-- Actual text -->
