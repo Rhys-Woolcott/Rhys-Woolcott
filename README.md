@@ -1,4 +1,4 @@
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11583514&theme=dark)](https://stackoverflow.com/users/11583514/rhys-woolcott)\
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11583514&theme=dark)](https://stackoverflow.com/users/11583514/rhys-woolcott)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/)
 ---
 # Stats
