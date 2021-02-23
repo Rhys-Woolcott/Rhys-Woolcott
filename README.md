@@ -1,7 +1,7 @@
 - Discord: [GALACTIX Software](https://discord.gg/vabD3Fg)
 - Website: [GALACTIX.XYZ](https://galactix.xyz)
 ---
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11583514?theme=dark)](https://stackoverflow.com/users/11583514/rhys-woolcott)
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11583514&theme=dark)](https://stackoverflow.com/users/11583514/rhys-woolcott)
 ---
 # Stats
 [![Rhys' github stats](https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/)
