@@ -1,19 +1,16 @@
 # Hi there 👋
-### My name is Rhys Woolcott. I am a hobbyist and freelance software developer from the UK.
----
-#### 🔭 I’m currently working on some personal projects
-#### 🌱 I’m currently learning Node.JS
-#### 📫 Links
 - Discord: [GALACTIX Software](https://discord.gg/vabD3Fg)
 - Website: [GALACTIX.XYZ](https://galactix.xyz)
 ---
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11583514)](https://stackoverflow.com/users/11583514/rhys-woolcott)
+---
 # Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott&show_icons=true&theme=radical)](https://github.com/Rhys-Woolcott/)
+[![Rhys' github stats](https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/)
 ---
 # Favourite/Useful Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=midnight-purple)](https://github.com/galactix-xyz/Programming-Fixes)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rhys-Woolcott&repo=GalacOS&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/GalacOS)
+[![Fixes](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=midnight-purple)](https://github.com/galactix-xyz/Programming-Fixes)
+[![My OS](https://github-readme-stats.vercel.app/api/pin/?username=Rhys-Woolcott&repo=GalacOS&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/GalacOS)
 ---
 # Socials
 <!-- Actual text -->
