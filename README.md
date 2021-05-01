@@ -9,10 +9,13 @@
 ---
 ## About Me
 ### Hi, my name is Rhys Woolcott. I am a full stack software developer from the UK <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1ec-1f1e7.png" height="20px" alt="ukflag" />
+
+## Some of my projects include:
+- []()
 ---
 ## Stats
-[![Rhys' github stats](https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/) \
+[![Rhys' github stats](https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/)
 ---
 ## Favourite/Useful Repos
 [![Fixes](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=midnight-purple)](https://github.com/galactix-xyz/Programming-Fixes)
