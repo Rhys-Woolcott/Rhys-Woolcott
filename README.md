@@ -23,5 +23,4 @@
 ---
 ## Socials
 [Discord Server](https://discord.gg/vabD3Fg) \
-[Twitter](https://twitter.com/GALACTIX__) \
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11583514&theme=dark)](https://stackoverflow.com/users/11583514/rhys-woolcott)
+[Twitter](https://twitter.com/GALACTIX__)
