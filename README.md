@@ -51,28 +51,28 @@
 </a>
 <h1 style="font-size: 1.5rem; font-weight: bold;">White (dark theme users)</h1>
 <a style="margin-right: 24px" href="https://github.com/Rhys-Woolcott/">
-<img src="./images/github.png" width="24px" />
+<img src="./github.png" width="24px" />
 </a>
 <a style="margin-right: 24px" href="https://www.linkedin.com/in/rhys-woolcott-72490a1b7/">
-<img src="./images/linkedin.png" width="24px" />
+<img src="./linkedin.png" width="24px" />
 </a>
 <a style="margin-right: 24px" href="https://dsc.bio/floofyboi">
-<img src="./images/discord.png" width="24px" />
+<img src="./discord.png" width="24px" />
 </a>
 <a style="margin-right: 24px" href="https://twitter.com/GALACTIX__">
-<img src="./images/twitter.png" width="24px" />
+<img src="./twitter.png" width="24px" />
 </a>
 <a style="margin-right: 24px" href="https://instagram.com/galactix.xyz/">
-<img src="./images/instagram.png" width="24px" />
+<img src="./instagram.png" width="24px" />
 </a>
 <a style="margin-right: 24px" href="https://galactix.xyz/">
-<img src="./images/globe.png" width="24px" />
+<img src="./globe.png" width="24px" />
 </a>
-<a style="margin-right: 24px" href="mailto:rhyswoolcott@gmail.com">
-<img src="./images/email.png" width="24px" />
+<a style="margin-right: 24px" href="mailto:rhyswoolcott@gmailcom">
+<img src="./email.png" width="24px" />
 </a>
 <a style="margin-right: 24px" href="call:+4407494935382">
-<img src="./images/call.png" width="24px" />
+<img src="./call.png" width="24px" />
 </a>
 
 <br />
