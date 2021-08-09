@@ -49,6 +49,9 @@
 <a style="margin-right: 24px" href="https://galactix.xyz/">
 <img src="https://image.flaticon.com/icons/png/512/2301/2301129.png" width="24px" />
 </a>
+<a style="margin-right: 24px" href="mailto:rhyswoolcott@gmail.com">
+<img src="https://image.flaticon.com/icons/png/512/2089/2089181.png" width="24px" />
+</a>
 <h1 style="font-size: 1.5rem; font-weight: bold;">White (dark theme users)</h1>
 <a style="margin-right: 24px" href="https://github.com/Rhys-Woolcott/">
 <img src="./github.png" width="24px" />
@@ -70,9 +73,6 @@
 </a>
 <a style="margin-right: 24px" href="mailto:rhyswoolcott@gmailcom">
 <img src="./email.png" width="24px" />
-</a>
-<a style="margin-right: 24px" href="call:+4407494935382">
-<img src="./call.png" width="24px" />
 </a>
 
 <br />
