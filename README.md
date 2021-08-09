@@ -1,26 +1,99 @@
-# Welcome To My Profile
-## Index
-| ID | Link |
-|------|------|
-| 0 | [About](#user-content-about-me) |
-| 1 | [Stats](#user-content-stats) |
-| 2 | [Repos](#user-content-favouriteuseful-repos) |
-| 2 | [Socials](#user-content-socials) |
----
-## About Me
-### Hi, my name is Rhys Woolcott. I am a full stack software developer from the UK <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1ec-1f1e7.png" height="20px" alt="ukflag" />
+<!-- Title -->
+<h1 style="font-size: 4rem; font-weight: bold;">Rhys Woolcott - <span style="font-size: 3rem;">aka GalacTix</span></h1>
+<br />
 
-## Some of my projects include:
-- [Nerdee.io | Nerdee Dating](https://github.com/NerdeeApp/) - [Website](https://nerdee.io/ref/github)
----
-## Stats
-[![Rhys' github stats](https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/)
----
-## Favourite/Useful Repos
-[![Fixes](https://github-readme-stats.vercel.app/api/pin/?username=galactix-xyz&repo=Programming-Fixes&show_icons=true&theme=midnight-purple)](https://github.com/galactix-xyz/Programming-Fixes)
-[![My OS](https://github-readme-stats.vercel.app/api/pin/?username=Rhys-Woolcott&repo=GalacOS&show_icons=true&theme=midnight-purple)](https://github.com/Rhys-Woolcott/GalacOS)
----
-## Socials
-[Discord Server](https://discord.gg/vabD3Fg) \
-[Twitter](https://twitter.com/GALACTIX__)
+<!-- About -->
+<h1 style="font-size: 3rem; font-weight: bold;">About</h1>
+<span style="font-size: 1.5rem">
+<!-- Text block start -->
+<span style="font-size: 1.25rem">🟣</span>
+<!-- Text Goes below this line -->
+📖 I am always willing to learn new skills, no matter the challenge
+<br />
+<!-- Text block end -->
+<!-- Text block start -->
+<span style="font-size: 1.25rem">🟣</span>
+<!-- Text Goes below this line -->
+🖥️ I am an ethical hacker, specializing in wifi and phishing attacks
+<br />
+<!-- Text block end -->
+<!-- Text block start -->
+<span style="font-size: 1.25rem">🟣</span>
+<!-- Text Goes below this line -->
+⌨️ 2021 Goal: Learn assembly and C language.
+<br />
+<!-- Text block end -->
+</span>
+
+<br />
+<br />
+
+<!-- Links -->
+<h1 style="font-size: 3rem; font-weight: bold;">Links</h1>
+<h1 style="font-size: 1.5rem; font-weight: bold;">Black (light theme users)</h1>
+<a style="margin-right: 24px" href="https://github.com/Rhys-Woolcott/">
+<img src="https://image.flaticon.com/icons/png/512/2111/2111432.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://www.linkedin.com/in/rhys-woolcott-72490a1b7/">
+<img src="https://image.flaticon.com/icons/png/512/2111/2111532.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://dsc.bio/floofyboi">
+<img src="https://image.flaticon.com/icons/png/512/2111/2111363.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://twitter.com/GALACTIX__">
+<img src="https://image.flaticon.com/icons/png/512/733/733635.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://instagram.com/galactix.xyz/">
+<img src="https://image.flaticon.com/icons/png/512/733/733614.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://galactix.xyz/">
+<img src="https://image.flaticon.com/icons/png/512/2301/2301129.png" width="24px" />
+</a>
+<h1 style="font-size: 1.5rem; font-weight: bold;">White (dark theme users)</h1>
+<a style="margin-right: 24px" href="https://github.com/Rhys-Woolcott/">
+<img src="./images/github.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://www.linkedin.com/in/rhys-woolcott-72490a1b7/">
+<img src="./images/linkedin.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://dsc.bio/floofyboi">
+<img src="./images/discord.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://twitter.com/GALACTIX__">
+<img src="./images/twitter.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://instagram.com/galactix.xyz/">
+<img src="./images/instagram.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="https://galactix.xyz/">
+<img src="./images/globe.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="mailto:rhyswoolcott@gmail.com">
+<img src="./images/email.png" width="24px" />
+</a>
+<a style="margin-right: 24px" href="call:+4407494935382">
+<img src="./images/call.png" width="24px" />
+</a>
+
+<br />
+<br />
+
+<!-- Stats -->
+<h1 style="font-size: 3rem; font-weight: bold;">Stats</h1>
+<!-- Github-Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Rhys-Woolcott&count_private=true&show_icons=true" />
+<br />
+<!-- Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Woolcott&count_private=true&layout=compact" />
+
+<!--
+ * Links
+ ! Not working
+ -->
+
+[website]: https://galactix.xyz/
+[instagram]: https://instagram.com/galactix.xyz/
+[linkedin]: https://www.linkedin.com/in/rhys-woolcott-72490a1b7/
+[twitter]: https://twitter.com/GALACTIX__
+[xss]: https://xss.is/members/234046/
+[discord]: https://dsc.bio/floofyboi
