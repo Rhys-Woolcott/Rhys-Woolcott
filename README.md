@@ -14,13 +14,13 @@
 <!-- Text block start -->
 <span style="font-size: 1.25rem">🟣</span>
 <!-- Text Goes below this line -->
-🖥️ I am an ethical hacker, specializing in wifi and phishing attacks
+🖥️ I am a full stack software engineer @ <a href="https://catostudios.nl" target="_blank">Cato Studios</a>
 <br />
 <!-- Text block end -->
 <!-- Text block start -->
 <span style="font-size: 1.25rem">🟣</span>
 <!-- Text Goes below this line -->
-⌨️ 2021 Goal: Learn assembly and C language.
+⌨️ 2022 Goal: Figure out ThreeJS
 <br />
 <!-- Text block end -->
 </span>
@@ -97,3 +97,4 @@
 [twitter]: https://twitter.com/GALACTIX__
 [xss]: https://xss.is/members/234046/
 [discord]: https://dsc.bio/floofyboi
+[cato]: https://catostudios.nl/
