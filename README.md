@@ -74,7 +74,7 @@
   <a style="margin-right: 24px" href="https://galactix.xyz/#gh-dark-mode-only" class="dark-mode">
    <img src="./globe.png" width="24px" />
   </a>
-  <a style="margin-right: 24px" href="mailto:rhyswoolcott@gmailcom#gh-dark-mode-only" class="dark-mode">
+  <a style="margin-right: 24px" href="mailto:rhyswoolcott@gmail.com#gh-dark-mode-only" class="dark-mode">
    <img src="./email.png" width="24px" />
   </a>
 
