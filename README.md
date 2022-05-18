@@ -18,12 +18,6 @@
   <!-- Text block start -->
   <span style="font-size: 1.25rem">🟣</span>
   <!-- Text Goes below this line -->
-  🖥️ Full stack developer @ <a href="https://catostudios.nl" target="_blank">Cato Studios</a>
-  <br />
-  <!-- Text block end -->
-  <!-- Text block start -->
-  <span style="font-size: 1.25rem">🟣</span>
-  <!-- Text Goes below this line -->
   ⌨️ 2022 Goal: Figure out ThreeJS
   <br />
   <!-- Text block end -->
