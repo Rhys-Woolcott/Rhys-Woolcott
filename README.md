@@ -12,13 +12,13 @@
   <!-- Text block start -->
   <span style="font-size: 1.25rem">🟣</span>
   <!-- Text Goes below this line -->
-  📖 I am always willing to learn new skills, no matter the challenge
+  📖 hi
   <br />
   <!-- Text block end -->
   <!-- Text block start -->
   <span style="font-size: 1.25rem">🟣</span>
   <!-- Text Goes below this line -->
-  ⌨️ 2022 Goal: Figure out ThreeJS
+  ⌨️ 2023 Goal: Finish a project for once
   <br />
   <!-- Text block end -->
   </span>
