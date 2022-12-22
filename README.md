@@ -28,17 +28,9 @@
 
   <!-- Links -->
   <h1 style="font-size: 3rem; font-weight: bold;">Links</h1>
-  <a style="margin-right: 24px" href="https://github.com/Rhys-Woolcott/#gh-light-mode-only" class="light-mode">
-   <img src="https://image.flaticon.com/icons/png/512/2111/2111432.png" width="24px" />
-  </a>
-  <a style="margin-right: 24px" href="https://www.linkedin.com/in/rhys-woolcott-72490a1b7/#gh-light-mode-only" class="light-mode">
-   <img src="https://image.flaticon.com/icons/png/512/2111/2111532.png" width="24px" />
-  </a>
+
   <a style="margin-right: 24px" href="https://dsc.bio/floofyboi#gh-light-mode-only" class="light-mode">
    <img src="https://image.flaticon.com/icons/png/512/2111/2111363.png" width="24px" />
-  </a>
-  <a style="margin-right: 24px" href="https://twitter.com/GALACTIX__#gh-light-mode-only" class="light-mode">
-   <img src="https://image.flaticon.com/icons/png/512/733/733635.png" width="24px" />
   </a>
   <a style="margin-right: 24px" href="https://instagram.com/galactix.xyz/#gh-light-mode-only" class="light-mode">
    <img src="https://image.flaticon.com/icons/png/512/733/733614.png" width="24px" />
@@ -46,30 +38,15 @@
   <a style="margin-right: 24px" href="https://galactix.xyz/#gh-light-mode-only" class="light-mode">
    <img src="https://image.flaticon.com/icons/png/512/2301/2301129.png" width="24px" />
   </a>
-  <a style="margin-right: 24px" href="mailto:rhyswoolcott@gmail.com#gh-light-mode-only" class="light-mode">
-   <img src="https://image.flaticon.com/icons/png/512/2089/2089181.png" width="24px" />
-  </a>
 
-  <a style="margin-right: 24px" href="https://github.com/Rhys-Woolcott/#gh-dark-mode-only" class="dark-mode">
-   <img src="./github.png" width="24px" />
-  </a>
-  <a style="margin-right: 24px" href="https://www.linkedin.com/in/rhys-woolcott-72490a1b7/#gh-dark-mode-only" class="dark-mode">
-   <img src="./linkedin.png" width="24px" />
-  </a>
   <a style="margin-right: 24px" href="https://dsc.bio/floofyboi#gh-dark-mode-only" class="dark-mode">
    <img src="./discord.png" width="24px" />
-  </a>
-  <a style="margin-right: 24px" href="https://twitter.com/GALACTIX__#gh-dark-mode-only" class="dark-mode">
-   <img src="./twitter.png" width="24px" />
   </a>
   <a style="margin-right: 24px" href="https://instagram.com/galactix.xyz/#gh-dark-mode-only" class="dark-mode">
    <img src="./instagram.png" width="24px" />
   </a>
   <a style="margin-right: 24px" href="https://galactix.xyz/#gh-dark-mode-only" class="dark-mode">
    <img src="./globe.png" width="24px" />
-  </a>
-  <a style="margin-right: 24px" href="mailto:rhyswoolcott@gmail.com#gh-dark-mode-only" class="dark-mode">
-   <img src="./email.png" width="24px" />
   </a>
 
   <br />
